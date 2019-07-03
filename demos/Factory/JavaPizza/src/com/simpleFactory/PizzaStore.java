@@ -1,3 +1,5 @@
+package com.simpleFactory;
+
 public class PizzaStore {
     SimplePizzaFactory factory;
 
@@ -7,12 +9,12 @@ public class PizzaStore {
 
     public Pizza orderPizza(String type) {
         Pizza pizza = factory.createPizza(type);
-        
+
         pizza.prepare();
         pizza.bake();
         pizza.cut();
         pizza.box();
 
-        return  pizza;
+        return pizza;
     }
 }
