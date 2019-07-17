@@ -15,3 +15,6 @@
 **The Abstract Factory Pattern** provides an interface for creating families of related or dependent objects without specifying their concrete classes.
 
 抽象工厂的任务是定义一个负责创建一组产品的接口。
+
+Dependency Inversion Principle
+Depend upon abstractions. Do not depend upon concrete classes.
