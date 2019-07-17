@@ -19,5 +19,9 @@
 - 你可以用一个或多个装饰者包装一个对象。
 - 装饰者可以在代理对象的行为的前面或者后面，加上自己的行为来达到指定目的。
 
+> The Open-Closed Principle
+> 
+> Classes should be open for extension, but closed for modification.
+
 
 

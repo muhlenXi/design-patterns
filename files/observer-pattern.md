@@ -13,3 +13,9 @@
 其中有状态改变的对象我们称为 Subject， 所有依赖它的对象我们称为 Observer。
 
 Subject 是一个有状态的对象，并且该对象可以控制它的这些状态。而 Observer 需要使用这些状态，但是他们没有状态。多个Observer 没有数据，只能依赖 Subject 来更新数据。这就产生了一个 Subject 和多个 Observer 的依赖关系。
+
+这是观察者模式涉及的设计原则：
+
+> Design Principle
+> 
+> Strive for loosely coupled designs between objects that interact.
