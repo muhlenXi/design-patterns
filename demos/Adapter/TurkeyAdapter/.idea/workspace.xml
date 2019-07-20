@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="141382dd-3293-435b-9b0e-8058c78419e5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Duck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MallardDuck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Turkey.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TurkeyAdapter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WildTurkey.java" afterDir="false" />
-    </list>
+    <list default="true" id="141382dd-3293-435b-9b0e-8058c78419e5" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +18,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/DuckTestDriver.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
+            <state relative-caret-position="293">
               <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
             </state>
           </provider>
@@ -206,12 +199,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1563603421481</updated>
-      <workItem from="1563603424153" duration="1169000" />
+      <workItem from="1563603424153" duration="1384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1169000" />
+    <option name="totallyTimeSpent" value="1384000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="2130" y="498" width="762" height="666" extended-state="0" />
@@ -232,7 +225,7 @@
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3292683" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3292683" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -307,7 +300,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DuckTestDriver.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
+        <state relative-caret-position="293">
           <caret line="19" column="28" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
         </state>
       </provider>
