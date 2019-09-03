@@ -16,5 +16,19 @@
 
 ## 聊聊列表
 
-- [聊聊 策略模式](/files/strategy-pattern.md)
-- [聊聊 观察者模式](/files/observer-pattern.md)
+- [策略模式](/files/strategy-pattern.md)
+- [观察者模式](/files/observer-pattern.md)
+- [装饰者模式](/files/decorate-pattern.md)
+- [工厂模式](/files/factory-pattern.md)
+- [单例模式](/files/singleton-pattern.md)
+
+- [命令模式](/files/command-pattern.md)
+- [适配器模式](/files/adapter-pattern.md)
+- [外观模式](/files/facade-pattern.md)
+- [模板方法模式](/files/template-method-pattern.md)
+- [迭代器模式](/files/iterator-pattern.md)
+
+- [组合模式](/files/composite-pattern.md)
+- [状态模式](/files/state-pattern.md)
+- [代理模式](/files/proxy-pattern.md)
+
