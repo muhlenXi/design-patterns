@@ -10,40 +10,40 @@
 
 设计模式的核心思想就是寻找某种方式，让系统中的某种改变不会影响其他部分。
 
-# 聊聊列表
+# 聊聊内容列表
 
 构建型的设计模式主要有 6 个:
 
-- [简单工厂模式](#The Simple Factory)
-- [工厂方法模式](#Factory Method Pattern)
-- [抽象工厂模式](#Abstract Factory Pattern)
-- [原型模式](#Prototype Pattern)
-- [建造者模式](#Builder Pattern)
-- [单例模式](#Singleton Pattern)
+- [简单工厂模式](#the-simple-factory)
+- [工厂方法模式](#factory-method-pattern)
+- [抽象工厂模式](#abstract-factory-pattern)
+- [原型模式](#prototype-pattern)
+- [建造者模式](#builder-pattern)
+- [单例模式](#singleton-pattern)
 
 结构型的设计模式有 7 个: 
 
-- [外观模式](#Facade Pattern)
-- [装饰模式](#Decorator Pattern)
-- [适配器模式](#Adapter Pattern)
-- [桥接模式](#Bridge Pattern)
-- [组合模式](#Composite Pattern)
-- [享元模式](#Flyweight Pattern)
-- [代理模式](#Proxy Pattern)
+- [外观模式](#facade-pattern)
+- [装饰模式](#decorator-pattern)
+- [适配器模式](#adapter-pattern)
+- [桥接模式](#bridge-pattern)
+- [组合模式](#composite-pattern)
+- [享元模式](#flyweight-pattern)
+- [代理模式](#proxy-pattern)
 
 行为型的设计模式有 10 个:
 
-- [观察者模式](#Observer Pattern)
-- [模板方法模式](#Template Method Pattern)
-- [命令模式](#Command Pattern)
-- [状态模式](#State Pattern)
-- [职责链模式](#Chain of Responsibility Pattern)
-- [解释器模式](#Interpreter Pattern)
-- [中介者模式](#Mediator Pattern)
-- [访问者模式](#Visitor Pattern)
-- [策略模式](#Strategy Pattern)
-- [备忘录模式](#Command Pattern)
-- [迭代器模式](#Iterator Pattern)
+- [观察者模式](#observer-pattern)
+- [模板方法模式](#template-method-pattern)
+- [命令模式](#command-pattern)
+- [状态模式](#state-pattern)
+- [职责链模式](#chain-of-responsibility-pattern)
+- [解释器模式](#interpreter-pattern)
+- [中介者模式](#mediator-pattern)
+- [访问者模式](#visitor-pattern)
+- [策略模式](#strategy-pattern)
+- [备忘录模式](#command-pattern)
+- [迭代器模式](#iterator-pattern)
 
 
 
