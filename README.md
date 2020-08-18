@@ -14,36 +14,36 @@
 
 构建型的设计模式主要有 6 个:
 
-- `简单工厂模式` 
-- `工厂方法模式`
-- `抽象工厂模式`
-- `原型模式`
-- `建造者模式`
-- `单例模式`
+- [简单工厂模式](#The Simple Factory)
+- [工厂方法模式](#Factory Method Pattern)
+- [抽象工厂模式](#Abstract Factory Pattern)
+- [原型模式](#Prototype Pattern)
+- [建造者模式](#Builder Pattern)
+- [单例模式](#Singleton Pattern)
 
 结构型的设计模式有 7 个: 
 
-- `外观模式`
-- `装饰模式`
-- `适配器模式`
-- `桥接模式`
-- `组合模式`
-- `享元模式`
-- `代理模式`
+- [外观模式](#Facade Pattern)
+- [装饰模式](#Decorator Pattern)
+- [适配器模式](#Adapter Pattern)
+- [桥接模式](#Bridge Pattern)
+- [组合模式](#Composite Pattern)
+- [享元模式](#Flyweight Pattern)
+- [代理模式](#Proxy Pattern)
 
 行为型的设计模式有 10 个:
 
-- `观察者模式`
-- `模板方法模式`
-- `命令模式`
-- `状态模式`
-- `职责链模式`
-- `解释器模式`
-- `中介者模式`
-- `访问者模式`
-- `策略模式`
-- `备忘录模式` 
-- `迭代器模式` 
+- [观察者模式](#Observer Pattern)
+- [模板方法模式](#Template Method Pattern)
+- [命令模式](#Command Pattern)
+- [状态模式](#State Pattern)
+- [职责链模式](#Chain of Responsibility Pattern)
+- [解释器模式](#Interpreter Pattern)
+- [中介者模式](#Mediator Pattern)
+- [访问者模式](#Visitor Pattern)
+- [策略模式](#Strategy Pattern)
+- [备忘录模式](#Command Pattern)
+- [迭代器模式](#Iterator Pattern)
 
 
 
